@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 1024M
+  instances: 1
+  domain: mybluemix.net
+  name: reliance-demo
+  host: reliance-demo
+  disk_quota: 2048M
